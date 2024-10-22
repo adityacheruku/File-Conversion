@@ -14,7 +14,7 @@ This project is a web application that allows users to convert image files (JPG,
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/image-to-pdf-converter.git
+    git clone https://github.com/adityacheruku/image-to-pdf-converter.git
     cd image-to-pdf-converter
     ```
 
